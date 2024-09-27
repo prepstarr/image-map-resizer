@@ -35,8 +35,8 @@ $(document).ready(function() {
 });
 ```
 
-### Example
-http://davidjbradshaw.com/imagemap-resizer/example/
+### Demonstration
+https://www.youtube.com/watch?v=8wM5nBLy8c8
 
 ### WordPress
 There is a port of this library to WordPress made by @iankevinmcdonald
